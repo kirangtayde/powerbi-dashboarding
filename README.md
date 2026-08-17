@@ -1,39 +1,103 @@
-# Power BI Dashboarding & Client Onboarding — Microsoft
+# 📊 Power BI Dashboarding & Client Onboarding
 
-Portfolio implementation documenting an enterprise BI workflow: stakeholder requirements, data preparation, semantic modeling, DAX KPI design, dashboard UX and onboarding.
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
+![DAX](https://img.shields.io/badge/DAX-KPI%20Modeling-blue)
+![Analytics](https://img.shields.io/badge/Analytics-Decision%20Support-orange)
 
-## About the Author
+Portfolio implementation of an enterprise BI workflow covering **stakeholder requirements, data preparation, semantic modeling, DAX KPI design, dashboard UX, validation and client onboarding**.
 
-**Kiran Tayde** — Senior Data Scientist / Analytics | Machine Learning | Power BI | Business Intelligence | NLP
+## 👨‍💻 Author
 
-I combine data science, analytics and business intelligence to transform stakeholder requirements into measurable insights, predictive solutions and decision-ready dashboards.
+**Kiran Tayde — Senior Data Scientist | Analytics | Machine Learning | Power BI | Business Intelligence**
 
-**GitHub:** https://github.com/kirangtayde
+GitHub: https://github.com/kirangtayde
 
-## Dashboard design
+## 🎯 Objective
+
+Transform business requirements and operational data into reliable, interactive and decision-ready dashboards.
+
+## 📐 BI Workflow
+
+```text
+Stakeholder Requirements
+        ↓
+Data Preparation & Validation
+        ↓
+Semantic Data Model
+        ↓
+DAX Measures
+        ↓
+KPI & UX Design
+        ↓
+Dashboard Development
+        ↓
+UAT & Validation
+        ↓
+Onboarding / Handover
+```
+
+## 📈 Dashboard Design
+
 - Executive KPI scorecard
 - Trend and variance analysis
-- Segment/channel drilldowns
+- Segment and channel drilldowns
 - Filter and slicer strategy
 - Exception reporting
-- Data refresh and governance checklist
+- Refresh and governance checklist
 
-## Data model
-Recommended star schema: `FactSales` linked to `DimDate`, `DimCustomer`, `DimProduct`, `DimRegion`, and `DimChannel`.
+## 🧩 Recommended Data Model
 
-## DAX examples
-See `dax/measures.dax` for reusable measures such as Revenue, YoY Growth, Conversion Rate and Average Order Value.
+Star-schema approach:
 
-## Onboarding
-See `docs/client-onboarding.md` for requirements discovery, workspace/access checklist, data validation, UAT and handover.
+`FactSales → DimDate, DimCustomer, DimProduct, DimRegion, DimChannel`
 
-No Microsoft confidential dashboard files, credentials or client data are included.
+## 🧮 DAX Examples
 
-## Resume summary
-Developed and supported Power BI dashboards, KPI reporting, data preparation and client onboarding workflows, translating stakeholder requirements into interactive business intelligence solutions.
+Reusable measures can include:
 
-## Connect
+- Revenue
+- Revenue YoY Growth
+- Conversion Rate
+- Average Order Value
+- Variance vs Target
+- Contribution / Share
+
+See `dax/measures.dax` where available.
+
+## 🤝 Client Onboarding
+
+Typical onboarding stages:
+
+1. Requirements discovery
+2. Data-source and access checklist
+3. Data validation
+4. Semantic-model review
+5. Dashboard UAT
+6. Documentation
+7. Handover and support
+
+No confidential Microsoft dashboard files, credentials or client data are included.
+
+## 🛠️ Stack
+
+Power BI • DAX • SQL concepts • Data Modeling • Business Intelligence • Analytics
+
+## 📁 Structure
+
+```text
+dax/
+docs/
+reports/
+data/
+README.md
+```
+
+## 📌 Resume Summary
+
+**Power BI Dashboarding & Client Onboarding | Power BI, DAX, BI** — Developed and supported decision-ready dashboards, KPI reporting, data preparation, semantic modeling and client onboarding workflows by translating stakeholder requirements into interactive business intelligence solutions.
+
+## 🔗 Connect
 
 **Kiran Tayde** · Senior Data Scientist / Analytics · BI · Machine Learning
 
-[GitHub](https://github.com/kirangtayde)
+https://github.com/kirangtayde
