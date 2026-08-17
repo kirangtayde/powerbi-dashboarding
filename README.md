@@ -78,9 +78,13 @@ Typical onboarding stages:
 
 No confidential Microsoft dashboard files, credentials or client data are included.
 
+## 🧭 Job Description Alignment
+
+This repository demonstrates skills commonly requested in **Senior Data Scientist, Analytics and BI roles**: translating stakeholder requirements into analytical solutions, data preparation and validation, SQL-oriented thinking, KPI design, data modeling, dashboard communication and business decision support.
+
 ## 🛠️ Stack
 
-Power BI • DAX • SQL concepts • Data Modeling • Business Intelligence • Analytics
+Power BI • DAX • SQL • Data Modeling • Business Intelligence • Analytics
 
 ## 📁 Structure
 
@@ -94,7 +98,7 @@ README.md
 
 ## 📌 Resume Summary
 
-**Power BI Dashboarding & Client Onboarding | Power BI, DAX, BI** — Developed and supported decision-ready dashboards, KPI reporting, data preparation, semantic modeling and client onboarding workflows by translating stakeholder requirements into interactive business intelligence solutions.
+**Power BI Dashboarding & Client Onboarding | Power BI, DAX, SQL, BI** — Developed and supported decision-ready dashboards, KPI reporting, data preparation, semantic modeling and client onboarding workflows by translating stakeholder requirements into interactive business intelligence solutions.
 
 ## 🔗 Connect
 
