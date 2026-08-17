@@ -1,0 +1,17 @@
+Revenue = SUM(FactSales[Revenue])
+
+Orders = DISTINCTCOUNT(FactSales[OrderID])
+
+Average Order Value = DIVIDE([Revenue], [Orders])
+
+Previous Year Revenue = CALCULATE([Revenue], DATEADD(DimDate[Date], -1, YEAR))
+
+YoY Growth % = DIVIDE([Revenue] - [Previous Year Revenue], [Previous Year Revenue])
+
+Customers = DISTINCTCOUNT(FactSales[CustomerID])
+
+Revenue per Customer = DIVIDE([Revenue], [Customers])
+
+Conversion Rate = DIVIDE(SUM(FactSales[Conversions]), SUM(FactSales[Leads]))
+
+Variance to Target = [Revenue] - SUM(FactSales[TargetRevenue])
