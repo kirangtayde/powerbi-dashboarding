@@ -2,6 +2,14 @@
 
 Portfolio implementation documenting an enterprise BI workflow: stakeholder requirements, data preparation, semantic modeling, DAX KPI design, dashboard UX and onboarding.
 
+## About the Author
+
+**Kiran Tayde** — Senior Data Scientist / Analytics | Machine Learning | Power BI | Business Intelligence | NLP
+
+I combine data science, analytics and business intelligence to transform stakeholder requirements into measurable insights, predictive solutions and decision-ready dashboards.
+
+**GitHub:** https://github.com/kirangtayde
+
 ## Dashboard design
 - Executive KPI scorecard
 - Trend and variance analysis
@@ -24,4 +32,8 @@ No Microsoft confidential dashboard files, credentials or client data are includ
 ## Resume summary
 Developed and supported Power BI dashboards, KPI reporting, data preparation and client onboarding workflows, translating stakeholder requirements into interactive business intelligence solutions.
 
-Author: Kiran Tayde | Senior Data Scientist / Analytics
+## Connect
+
+**Kiran Tayde** · Senior Data Scientist / Analytics · BI · Machine Learning
+
+[GitHub](https://github.com/kirangtayde)
